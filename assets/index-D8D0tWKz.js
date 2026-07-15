@@ -184,7 +184,7 @@
               <div class="contact-icon">&#9742;</div>
               <div>
                 <h4>Phone</h4>
-                <p>+91 98470 12345</p>
+                <p>+91 9544399444</p>
               </div>
             </div>
             <div class="contact-item">
@@ -198,7 +198,7 @@
               <div class="contact-icon">&#127968;</div>
               <div>
                 <h4>Address</h4>
-                <p>Dance Academy Road, Thrissur, Kerala 680001, India</p>
+                <p>Chottanikkara, Ernakulam Kerala 682312, India</p>
               </div>
             </div>
             <div class="contact-item">
@@ -285,7 +285,7 @@
         <ul>
           <li><a href="tel:+919544399444">+91 9544399444</a></li>
           <li><a href="mailto:info@upasanakalakendram.com">info@upasanakalakendram.com</a></li>
-          <li><a href="#contact">Ernakulam, Kerala</a></li>
+          <li><a href="#contact">Chottanikkara, Ernakulam, Kerala</a></li>
         </ul>
       </div>
     </div>
@@ -294,4 +294,3 @@
     </div>
   </footer>
 `; const h = document.getElementById("navbar"), g = () => { window.scrollY > 60 ? h.classList.add("scrolled") : h.classList.remove("scrolled") }; window.addEventListener("scroll", g, { passive: !0 }); g(); const c = document.getElementById("navToggle"), n = document.getElementById("navLinks"); c.addEventListener("click", () => { c.classList.toggle("open"), n.classList.toggle("open") }); n.querySelectorAll("a").forEach(e => { e.addEventListener("click", () => { c.classList.remove("open"), n.classList.remove("open") }) }); const f = new IntersectionObserver(e => { e.forEach(a => { a.isIntersecting && (a.target.classList.add("visible"), f.unobserve(a.target)) }) }, { threshold: .12, rootMargin: "0px 0px -50px 0px" }); document.querySelectorAll(".reveal").forEach(e => f.observe(e)); const E = document.querySelectorAll("section[id], header[id]"), T = n.querySelectorAll("a"), $ = new IntersectionObserver(e => { e.forEach(a => { if (a.isIntersecting) { const i = a.target.id; T.forEach(o => { o.classList.toggle("active", o.getAttribute("href") === `#${i}`) }) } }) }, { threshold: .4 }); E.forEach(e => $.observe(e)); const K = document.getElementById("testimonialSlides"), y = document.getElementById("testimonialDots"); let d = 0; const b = l.length; function p(e) { d = e, K.style.transform = `translateX(-${e * 100}%)`, y.querySelectorAll("button").forEach((a, i) => { a.classList.toggle("active", i === e) }) } y.addEventListener("click", e => { e.target.dataset.index !== void 0 && p(parseInt(e.target.dataset.index)) }); let w = setInterval(() => p((d + 1) % b), 6e3); const x = document.getElementById("testimonials"); x.addEventListener("mouseenter", () => clearInterval(w)); x.addEventListener("mouseleave", () => { w = setInterval(() => p((d + 1) % b), 6e3) }); const u = document.getElementById("contactForm"), v = document.getElementById("formSuccess"); u.addEventListener("submit", e => { e.preventDefault(), v.classList.add("visible"), u.reset(), setTimeout(() => v.classList.remove("visible"), 5e3) });
-)
