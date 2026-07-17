@@ -229,7 +229,7 @@
               <div class="contact-icon">&#9742;</div>
               <div>
                 <h4>Phone</h4>
-                <p>+91 98470 12345</p>
+                <p>+91 9497280409</p>
               </div>
             </div>
             <div class="contact-item">
@@ -243,7 +243,7 @@
               <div class="contact-icon">&#127968;</div>
               <div>
                 <h4>Address</h4>
-                <p>Dance Academy Road, Thrissur, Kerala 680001, India</p>
+                <p>Chottanikkara, Ernakulam, Kerala 682312, India</p>
               </div>
             </div>
             <div class="contact-item">
