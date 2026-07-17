@@ -203,13 +203,13 @@
         `).join("")}
       </div>
       <div class="social-follow">
-        <a href="#" class="social-follow-btn youtube">
+        <a href="https://www.youtube.com/@UpasanaKalakendram" class="social-follow-btn youtube">
           <span class="social-follow-icon">&#9654;</span> Subscribe on YouTube
         </a>
-        <a href="#" class="social-follow-btn facebook">
+        <a href="https://www.facebook.com/upasanakalakendram" class="social-follow-btn facebook">
           <span class="social-follow-icon">f</span> Follow on Facebook
         </a>
-        <a href="#" class="social-follow-btn instagram">
+        <a href="https://www.instagram.com/upasanakalakendram" class="social-follow-btn instagram">
           <span class="social-follow-icon">&#9737;</span> Follow on Instagram
         </a>
       </div>
@@ -329,9 +329,9 @@
       <div class="footer-col">
         <h4>Contact</h4>
         <ul>
-          <li><a href="tel:+919847012345">+91 98470 12345</a></li>
+          <li><a href="tel:+919847012345">+91 9497280409</a></li>
           <li><a href="mailto:info@upasanakalakendram.com">info@upasanakalakendram.com</a></li>
-          <li><a href="#contact">Thrissur, Kerala</a></li>
+          <li><a href="#contact">Chottanikkara, Ernakulam, Kerala</a></li>
         </ul>
       </div>
     </div>
