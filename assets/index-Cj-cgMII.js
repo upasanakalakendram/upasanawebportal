@@ -14,7 +14,7 @@
     <ul class="nav-links" id="navLinks">
       <li><a href="#home">Home</a></li>
       <li><a href="#about">About</a></li>
-      <li><a href="#dance-forms">Dance Forms</a></li>
+      <li><a href="#dance-forms">Art Forms</a></li>
       <li><a href="#gallery">Gallery</a></li>
       <li><a href="#instructors">Gurus</a></li>
       <li><a href="#events">Events</a></li>
@@ -50,7 +50,7 @@
         <div class="about-content reveal">
           <span class="section-eyebrow">Our Heritage</span>
           <h2>Where Tradition Finds Its Voice</h2>
-          <p>Upasana Kalakendram is a sanctuary for Indian classical dance, where ancient traditions are preserved with reverence and passed on with devotion. Our academy provides comprehensive training in a rich array of dance forms rooted in the cultural soil of South India.</p>
+          <p>Upasana Kalakendram is a sanctuary for the arts, where creativity flourishes and cultural heritage is preserved with reverence and passed on with devotion. Our academy provides comprehensive training across a diverse range of artistic disciplines, nurturing talent while celebrating the rich cultural traditions of India.</p>
           <p>From the precise geometry of Bharatanatyam to the lyrical grace of Mohiniyattam, from the dramatic power of Kathakali to the wit of Ottan Thullal — we honor each form in its authentic expression while nurturing each student's individual journey.</p>
           <div class="about-stats">
             <div class="stat"><strong>25+</strong><span>Years of Teaching</span></div>
